@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Jog_Fwd_Rifle.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Fire_Rifle_Ironsights.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Idle_Rifle_Hip.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Idle_Rifle_Ironsights.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/RunningBluPrint.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Shooter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/RunningRifleBP.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/UE5/Shooter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/UE5/Fire_Rifle_Ironsights.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/UE5/Idle_Rifle_Hip.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/UE5/Idle_Rifle_Ironsights.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/UE5/Jog_Fwd_Rifle.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/UE5/RunningRifleBP.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/RunningRifle_BP_UE5.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/RunningRifle_BP_UE4.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Idle_Rifle_Aim.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/ThirdPerson/Input/Actions/IA_Aim.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Shoot2.uasset"
+			]
+		}
+	]
+}
