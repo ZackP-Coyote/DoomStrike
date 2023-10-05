@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/david/Documents/GitHub/DoomStrike/Content/MainMenu/MainMenu.umap",
+				"C:/Users/david/Documents/GitHub/DoomStrike/Content/MainMenu/MainMenu_HLOD.uasset",
 				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Jog_Fwd_Rifle.uasset",
 				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Fire_Rifle_Ironsights.uasset",
