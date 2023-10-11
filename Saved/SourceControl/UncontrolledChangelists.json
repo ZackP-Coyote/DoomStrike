@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/david/Documents/GitHub/DoomStrike/Content/MainMenu/MainMenu.umap",
+				"C:/Users/david/Documents/GitHub/DoomStrike/Content/MainMenu/Settings_Page.uasset",
+				"C:/Users/david/Documents/GitHub/DoomStrike/Content/MainMenu/MM_MainMenu.uasset",
+				"C:/Users/david/Documents/GitHub/DoomStrike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/david/Documents/GitHub/DoomStrike/Content/MainMenu/MainMenu_HLOD.uasset",
 				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/user/Documents/Unreal Projects/DoomStrike/Content/NewAnimations/Jog_Fwd_Rifle.uasset",
