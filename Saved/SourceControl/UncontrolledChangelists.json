@@ -7,7 +7,31 @@
 			"files": [
 				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FrameWorks/BP_Menu_GM.uasset",
 				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/WB_LobbyMenu.uasset",
-				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/TravelMap.umap"
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/TravelMap.umap",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/WB_ServerRow.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/WB_MultiplayerMenu.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/WB_NewButton.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FrameWorks/E_Teams.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FrameWorks/BPI_TeamInteraction.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FrameWorks/BP_AI_Character.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XM/RUCD1M3NU4857EO6TWWQWH.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FrameWorks/BP_ShooterGameInstance.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/WB_RedoMPMenu.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/WB_StarterMainMenu.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/M3/66KG2OCQSKB3VV4IVMRHZI.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/Levels/Maps/Z_Map.umap",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FrameWorks/BP_AI2.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DO/FOG545KNK6Q0BU1PWM60EV.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/FrameWorks/BP_MenuController.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/DSSkull_PNG.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/Arena/Meshes/SM_OuterWall01.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/Arena/Meshes/SM_StonePile02.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/Arena/Textures/T_Ground01_BC_Mat.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/Arena/Textures/T_ShowroomFloor_BC_Mat.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/Arena/Textures/T_WallBricks03_BC_Mat.uasset",
+				"C:/Users/user/Documents/Unreal Projects/DoomStrike/DoomStrike/Content/MainMenu/WB_Server.uasset"
 			]
 		}
 	]
